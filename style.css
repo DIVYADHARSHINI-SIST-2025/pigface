@@ -1,0 +1,127 @@
+
+.ears{
+
+display: flex;
+padding-left: 500px;
+padding-right:500px ;
+justify-content:space-evenly;
+
+
+
+
+}
+.lear{
+      height: 70px;
+      width: 70px;
+      background-color: pink;
+      border-radius:50px 50px 0px 0px;
+      border-width: 2px;
+      border-color: black;
+      border-style: solid;
+      
+}
+.rear{
+    height: 70px;
+    width: 70px;
+    background-color: pink;
+    border-radius: 50px 50px 0px 0px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    
+   
+    
+    
+}
+
+
+.face{
+    background-color: pink;
+    height: 300px;
+    width:300px;
+    border-radius:50%;
+    margin-top: -50px;
+    margin-left: 520px;
+    position: absolute;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    
+    
+}
+.eyes{
+    display: flex;
+    padding: 70px;
+    justify-content: space-evenly;
+    
+}
+.leye{
+    height: 50px;
+    width: 50px;
+    background-color:white;
+    border-radius: 50px;
+   
+    
+
+}
+.reye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.ileye{
+    height: 25px;
+    width: 25px;
+    background-color:black;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 11px;
+    
+    
+   
+    
+}
+.ireye{
+    height: 25px;
+    width: 25px;
+    background-color:black;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 11px;
+    
+}
+.nose{
+    display: flex;
+    padding-left: 100px;
+    
+    
+
+}
+.nose1{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.inose1{
+      height: 30px;
+      width: 30px;
+      border-radius: 50px;
+      background-color: black;
+}
+.inose2{
+      height: 30px;
+      width:30px;
+      border-radius: 50px;
+      background-color: black;
+
+}
